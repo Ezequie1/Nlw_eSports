@@ -1,2 +1,1 @@
-# Nlw_eSports
-Nlw eSports
+Api com front e back-end, que permite cadastrar seus jogos favoritos, para que possíveis amigos possam ver quais jogos você joga, e a que horas. A api faz parte da Next Level Week, uma semana de aprendizado sobre nodeJS oferecido pela RocketSeat. A aplicação tem sua versão web e mobile, sendo a mais completa a mobile. As tecnologias utilizadas é nodeJs
